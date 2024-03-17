@@ -182,7 +182,7 @@ img
   max-height: 100%;
 }
 
-.left
+.left /* able to change the positions of the images added in project page */
 { height: 140px;
   float: left;
   width: 200px;
